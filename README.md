@@ -1,16 +1,11 @@
 
 - 👋 Hi, I’m @Andrew-Knoeller
 
+Take a break, leave a comment, critique or give friendly criticism for any parts of my code. I love getting advice from people more experienced. Never will be insulted by someone showing me a better way to do something. Most of these projects arent my best work but I just honestly am lazy and need to clean up repos and upload my best projects. 
 
-I am currently in my final semester at Blue Ridge Community and Technical college earning my Associates of applied science in software engineering.
-My current GPA is 3.89 and I've earned 49 out of my 60 required credits. This semester I am taking another 11 credit hours so I will be done my degree at the end of this semester
-I have been interested in software engineering for about 6-7 years and have done some self-learning but this college course is the first real education I am getting for the field.
-I feel confident in Python and I also have experience in java, c#, kotlin, swift, and php.. I also know some HTML, CSS, and Javascript.
+Also anyone with ideas for good coding projects, please give me your thoughts. I have a huge list of little things but I am craving a hard challenging project. Just have a lack of good ideas or imaginAAAAtion {spongebob}. Any beginners that would like help or to group up for a project feel free to email me as well. I will pass down any knowledge I can and help with school projects. {Keyword HELP, cannot do your finals for you because you will need to learn on your journey, Ill guide you anytime though} 
 
-If anyone has any projects or anything they would allow me to help with, I'd love to collaborate and further some of my skills in a real world enviroment! I am willing to work for just
-the experience. I could also help to debug or test any programs or applications if you need someone!
-
-You can contact me with any requests, advice or anything really at andrew.knoeller10590@gmail.com
+You can contact me with any requests, advice or anything really at andrew.knoeller10590@gmail.com  
 
 
 
